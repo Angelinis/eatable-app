@@ -8,11 +8,11 @@ create and edit the dishes names, prices, description and images.
 
 The project is based on React with the concepts of fetching, components, navbars, libraries, etc. 
 
-![homepage](https://raw.githubusercontent.com/Angelinis/tweetable-app/main/app/assets/images/Tweetable_app_1.JPG)
+![homepage](https://raw.githubusercontent.com/Angelinis/eatable-app/main/public/Eatable_app_1.JPG)
 
-![details1](https://raw.githubusercontent.com/Angelinis/tweetable-app/main/app/assets/images/Tweetable_app_2.JPG)
+![details1](https://raw.githubusercontent.com/Angelinis/eatable-app/main/public/Eatable_app_2.JPG)
 
-![details2](https://raw.githubusercontent.com/Angelinis/tweetable-app/main/app/assets/images/Tweetable_app_3.JPG)
+![details2](https://raw.githubusercontent.com/Angelinis/eatable-app/main/public/Eatable_app_3.JPG)
 
 React + Libraries 
 -------------
